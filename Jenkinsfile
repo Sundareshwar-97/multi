@@ -5,9 +5,6 @@ pipeline {
             steps {
                 echo " master" 
             }
-        }
-        
-            
-        }
+        }           
     }
 }
