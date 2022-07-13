@@ -6,15 +6,8 @@ pipeline {
                 echo " master" 
             }
         }
-        stage('Test') { 
-            steps {
-                // 
-            }
-        }
-        stage('Deploy') { 
-            steps {
-                // 
-            }
+        
+            
         }
     }
 }
