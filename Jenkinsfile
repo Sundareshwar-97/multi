@@ -3,7 +3,7 @@ pipeline {
     stages {
         stage('Build') { 
             steps {
-                echo " dev" 
+                echo " dev_mem" 
             }
         }           
     }
